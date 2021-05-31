@@ -6,6 +6,6 @@
 
 
 |Módulo | Status|
-| ******|******|
-|Login|Completo|
+| ******| ******|
+|Login |Completo |
 |
