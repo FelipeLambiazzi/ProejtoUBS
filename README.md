@@ -9,3 +9,8 @@
 | ******| ******|  
 |Login |Completo |  
 |  
+
+
+### MAX UBS
+Nosso projeto está sendo desenvolvido visando a resolução de problemas encontrados durante a gestão e analise da operação. Juntamos um em um sistema as funcionalidades de Agendamento, CRM e WMS para mitigar o erro e ao mesmo tempo melhorar a visibilidade gerencial de cada unidade que está sendo atendida pelo mesmo.
+Utilizando-se do MAX UBS você não terá problemas em gerenciar estoques, campanhas de vacinação, insumos e funcionários. Tudo centralizado para uma visão em 360º.
